@@ -65,7 +65,7 @@ Table of Contents
 
 
 ## 1 Implicit Memory: Unveiling Knowledge Inside Transformers
--[Memos: A memory os for ai system](https://arxiv.org/abs/2507.03724)
+- [Memos: A memory os for ai system](https://arxiv.org/abs/2507.03724)
 ### 1.1 Memory Analysis of Transformers  
 #### 1.1.1 Knowledge Memorization
 - [Dissecting recall of factual associations in auto-regressive language models](https://aclanthology.org/2023.emnlp-main.751/)
