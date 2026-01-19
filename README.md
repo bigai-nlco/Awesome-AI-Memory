@@ -65,25 +65,92 @@ Table of Contents
 
 
 ## 1 Implicit Memory: Unveiling Knowledge Inside Transformers
-
-
-### 1.1 Memory Analysis of Transformers
-
-- xxxx
-  
+-[Memos: A memory os for ai system](https://arxiv.org/abs/2507.03724)
+### 1.1 Memory Analysis of Transformers  
 #### 1.1.1 Knowledge Memorization
+- [Dissecting recall of factual associations in auto-regressive language models](https://aclanthology.org/2023.emnlp-main.751/)
+- [Knowledge circuits in pretrained transformers](https://dl.acm.org/doi/10.5555/3737916.3741681)
+- [Interpreting key mechanisms of factual recall in transformer-based language models](https://arxiv.org/abs/2403.19521)
+- [Confidence regulation neurons in language models](https://dl.acm.org/doi/10.5555/3737916.3741886)
+- [Revealing the dark secrets of BERT](https://aclanthology.org/D19-1445/)
+- [Transformer Feed-Forward Layers Are Key-Value Memories](https://aclanthology.org/2021.emnlp-main.446/)
+- [Transformer feed-forward layers build predictions by promoting concepts in the vocabulary space](https://aclanthology.org/2022.emnlp-main.3/)
+- [Knowledge Neurons in Pretrained Transformers](https://aclanthology.org/2022.acl-long.581/)
+- [What does bert look at? an analysis of bert’s attention](https://aclanthology.org/W19-4828/)
+- [exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models](https://aclanthology.org/2020.acl-demos.22/)
+- [Characterizing mechanisms for factual recall in language models](https://aclanthology.org/2023.emnlp-main.615/)
+##### Knowledge is encoded in FFNs.
+- [Transformer Feed-Forward Layers Are Key-Value Memories](https://aclanthology.org/2021.emnlp-main.446/)
+- [Transformer feed-forward layers build predictions by promoting concepts in the vocabulary space](https://aclanthology.org/2022.emnlp-main.3/)
+- [Empirical study on updating key-value memories in transformer feed-forward layers](https://arxiv.org/abs/2402.12233)
+- [Understanding transformer from the perspective of associative memory](https://arxiv.org/abs/2505.19488)
+- [Knowledge Neurons in Pretrained Transformers](https://aclanthology.org/2022.acl-long.581/)
+- [MoEfication: Transformer feed-forward layers are mixtures of experts.](https://aclanthology.org/2022.findings-acl.71)
+- [Emergent modularity in pre-trained transformers](https://aclanthology.org/2023.findings-acl.250)
+- [Depn: Detecting and editing privacy neurons in pretrained language models](https://aclanthology.org/2023.emnlp-main.174/)
+- [Confidence regulation neurons in language models](https://dl.acm.org/doi/10.5555/3737916.3741886)
+##### Attention is More Crucial for Knowledge Storage
+- [What does bert look at? an analysis of bert’s attention](https://aclanthology.org/W19-4828/)
+- [Characterizing mechanisms for factual recall in language models](https://aclanthology.org/2023.emnlp-main.615/)
+- [Inference-time intervention: Eliciting truthful answers from a language model](https://dl.acm.org/doi/10.5555/3666122.3667919)
+- [Stanford alpaca: An instruction-following llama model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+- [Do llms dream of elephants (when told not to)? latent concept association and associative memory in transformers](https://dl.acm.org/doi/10.5555/3737916.3740079)
+##### Knowledge Flows in Connections
+- [Knowledge circuits in pretrained transformers](https://dl.acm.org/doi/10.5555/3737916.3741681)
+- [Dissecting recall of factual associations in auto-regressive language models](https://aclanthology.org/2023.emnlp-main.751/)
+- [Interpreting key mechanisms of factual recall in transformer-based language models](https://arxiv.org/abs/2403.19521)
+##### Scaling Law for Knowledge Memorization
+- [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
+- [Scaling Laws for Fact Memorization of Large Language Models](https://aclanthology.org/2024.findings-emnlp.658/)
+- [Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws](https://arxiv.org/abs/2404.05405)
+- [Physics of language models: Part 3.1, knowledge storage and extraction]()
 #### 1.1.2 Associative Memory
-
+- [Content-Addressable and Associative Memory](https://doi.org/10.1016/S0065-2458(08)60326-5)
+##### Energy-based Model Mimic Associative Memory
+- [Neural networks and physical systems with emergent collective computational abilities](https://www.pnas.org/doi/abs/10.1073/pnas.79.8.2554)
+- [Hopfield networks is all you need](https://arxiv.org/abs/2008.02217)
+##### Transformer-based Models
+- [Birth of a transformer: a memory viewpoint](https://dl.acm.org/doi/10.5555/3666122.3666199)
+- [Do llms dream of elephants (when told not to)? latent concept association and associative memory in transformers](https://dl.acm.org/doi/10.5555/3737916.3740079)
+##### Scaling Law for Associative Memory
+- [Scaling Laws for Associative Memories](https://openreview.net/forum?id=Tzh6xAJSll)
+- [Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory](https://doi.org/10.48550/arXiv.2405.08707)
+##### Usage of Associative Memory
+- [CAMELoT: Towards Large Language Models with Training-Free Consolidated Associative Memory](https://arxiv.org/abs/2402.13449)
+- [Hierarchical Associative Memory](https://arxiv.org/abs/2107.06446)
+- [Universal Hopfield Networks: A General Framework for Single-Shot Associative Memory Models](https://proceedings.mlr.press/v162/millidge22a.html)
 ### 1.2 Implicit Memory Modification
-
+- [Editing conceptual knowledge for large language models](https://aclanthology.org/2024.findings-emnlp.40/)
+- [Knowledge Neurons in Pretrained Transformers](https://aclanthology.org/2022.acl-long.581/)
 #### 1.2.1 Modification Methods
-
-
-
+##### Incremental Training
+- [Modifying memories in transformer models](https://arxiv.org/abs/2012.00363)
+- [Propagating Knowledge Updates to LMs Through Distillation](https://dl.acm.org/doi/10.5555/3666122.3668163)
+- [Training Language Models with Memory Augmentation](https://aclanthology.org/2022.emnlp-main.382/)
+- [RECKONING: reasoning through dynamic knowledge encoding](https://dl.acm.org/doi/10.5555/3666122.3668855)
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://dblp.org/rec/journals/corr/abs-2106-09685.html)
+- [K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters](https://aclanthology.org/2021.findings-acl.121/)
+- [DEMix Layers: Disentangling Domains for Modular Language Modeling](https://aclanthology.org/2022.naacl-main.407/)
+##### Memory Editing
+- [Locating and editing factual associations in GPT](https://dl.acm.org/doi/10.5555/3600270.3601532)
+- [Mass-editing memory in a transformer](https://arxiv.org/abs/2210.07229)
+- [Calibrating Factual Knowledge in Pretrained Language Models](https://aclanthology.org/2022.findings-emnlp.438/)
+- [Editing Factual Knowledge in Language Models](https://aclanthology.org/2021.emnlp-main.522/)
+- [Methods for measuring, updating, and visualizing factual beliefs in language models](https://aclanthology.org/2023.eacl-main.199/)
+- [Large Scale Knowledge Washing](https://arxiv.org/abs/2405.16720)
+- [A comprehensive study of knowledge editing for large language models](https://arxiv.org/abs/2401.01286)
+##### Memory Unlearning
+- [To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models](https://aclanthology.org/2024.findings-emnlp.82/)
+- [Towards Safer Large Language Models through Machine Unlearning](https://aclanthology.org/2024.findings-acl.107/)
+- [LLM Surgery: Efficient Knowledge Unlearning and Editing in Large Language Models](https://arxiv.org/abs/2409.13054)
+- [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/)
 #### 1.2.2 Modification Benchmark
-
-
-### 1.3 Limitations, Open Questions, Discussion
+- [Knowledge editing for large language models: A survey](https://dl.acm.org/doi/10.1145/3698590)
+- [Evaluating the Ripple Effects of Knowledge Editing in Language Models](https://aclanthology.org/2024.tacl-1.16/)
+- [Cross-Lingual Multi-Hop Knowledge Editing--Benchmarks, Analysis and a Simple Contrastive Learning based Approach](https://aclanthology.org/2024.findings-emnlp.701/)
+- [A comprehensive study of knowledge editing for large language models](https://arxiv.org/abs/2401.01286)
+- [MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions](https://aclanthology.org/2023.emnlp-main.971/)
+- [Eva-kellm: A new benchmark for evaluating knowledge editing of llms](https://arxiv.org/abs/2308.09954)
 
 
 
