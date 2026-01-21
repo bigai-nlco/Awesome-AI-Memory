@@ -195,8 +195,114 @@ Table of Contents
 
 ## 4 Memory-augmented Multi-Modal Large Language models
 
-### 4.1 Multimodal Context Modeling with Memory
 
+-[Memory-Augmented Temporal Dynamic Learning for Action Recognition]()
+-[Distinguishing Homophenes Using Multi-Head Visual-Audio Memory for Lip Reading]()
+-[SyncTalkFace: Talking Face Generation with Precise Lip-Syncing via Audio-Lip Memory]()
+-[MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning]()
+-[Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering]()
+-[Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks]()
+-[STMTrack: Template-Free Visual Tracking With Space-Time Memory Networks]()
+-[Memory Oriented Transfer Learning for Semi-Supervised Image Deraining]()
+-[Memory-Guided Unsupervised Image-to-Image Translation]()
+-[Multi-Scale Memory-Based Video Deblurring]()
+-[Video Prediction Recalling Long-Term Motion Context via Memory Alignment Learning]()
+-[TrackFormer: Multi-Object Tracking with Transformers]()
+-[Attend to You: Personalized Image Captioning with Context Sequence Memory Networks]()
+-[Memory-Attended Recurrent Network for Video Captioning]()
+-[M3: Multimodal Memory Modelling for Video Captioning]()
+-[Remember the Difference: Cross-Domain Few-Shot Semantic Segmentation via Meta-Memory Transfer]()
+-[Structured Scene Memory for Vision-Language Navigation]()
+-[MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition]()
+-[Recurring the Transformer for Video Action Recognition]()
+-[Coloring With Limited Data: Few-Shot Colorization via Memory Augmented Networks]()
+-[Streaming Video Model]()
+-[XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model]()
+-[Video Object Segmentation with Episodic Graph Memory Networks]()
+-[MENet: A Memory-Based Network with Dual-Branch for Efficient Event Stream Processing]()
+-[Learning Dynamic Memory Networks for Object Tracking]()
+-[Video Summarization with Long Short-Term Memory]()
+-[Divide-and-Assemble: Learning Block-wise Memory for Unsupervised Anomaly Detection]()
+-[Multi-modality Associative Bridging through Memory: Speech Sound Recollected from Face Video]()
+-[Visual Graph Memory with Unsupervised Representation for Visual Navigation]()
+-[A Read-Write Memory Network for Movie Story Understanding]()
+-[Video Object Segmentation Using Space-Time Memory Networks]()
+-[Alignment Before Aggregation: Trajectory Memory Retrieval Network for Video Object Segmentation]()
+-[EMMN: Emotional Motion Memory Network for Audio-driven Emotional Talking Face Generation]()
+-[Learning Video Object Segmentation with Visual Memory](https://doi.org/10.1109/ICCV.2017.480)
+-[Memory-and-Anticipation Transformer for Online Action Understanding]()
+-[Learning Meta-class Memory for Few-Shot Semantic Segmentation]()
+-[MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation]()
+-[Recurrent Filter Learning for Visual Tracking]()
+-[Out of Sight, Still in Mind: Reasoning and Planning about Unobserved Objects with Video Tracking Enabled Memory Models]()
+-[Feature Augmented Memory with Global Attention Network for VideoQA]()
+-[Memory-augmented conformer for improved end-to-end long-form ASR]()
+-[Memory-based Semantic Segmentation for Off-road Unstructured Natural Environments]()
+-[Memory-Augmented Reinforcement Learning for Image-Goal Navigation]()
+-[Local Memory Attention for Fast Video Semantic Segmentation]()
+-[Extractive Video Summarizer with Memory Augmented Neural Networks]()
+-[Stacked Memory Network for Video Summarization]()
+-[Dual Temporal Memory Network for Efficient Video Object Segmentation]()
+-[MV-TON: Memory-based Video Virtual Try-on network]()
+-[Glance and Focus: Memory Prompting for Multi-Event Video Question Answering]()
+-[TransformerFusion: Monocular RGB Scene Reconstruction using Transformers]()
+-[Rethinking Space-Time Networks with Improved Memory Coverage for Efficient Video Object Segmentation]()
+-[Visual Memory for Robust Path Following]()
+-[MultiON: Benchmarking Semantic Map Memory using Multi-Object Navigation]()
+-[Long Short-Term Transformer for Online Action Detection]()
+-[Associating Objects with Transformers for Video Object Segmentation]()
+-[Reading Relevant Feature from Global Representation Memory for Visual Object Tracking]()
+-[Universal Face Restoration With Memorized Modulation](https://arxiv.org/abs/2110.01033)
+-[Memories are One-to-Many Mapping Alleviators in Talking Face Generation](https://arxiv.org/abs/2212.05005)
+-[ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System](https://arxiv.org/abs/2304.14407)
+-[Multiscale Memory Comparator Transformer for Few-Shot Video Segmentation](https://arxiv.org/abs/2307.07812)
+-[MovieChat: From Dense Token to Sparse Memory for Long Video Understanding](https://arxiv.org/abs/2307.16449)
+-[Loop Copilot: Conducting AI Ensembles for Music Generation and Iterative Editing](https://arxiv.org/abs/2310.12404)
+-[JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models](https://arxiv.org/abs/2311.05997)
+-[GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation](https://arxiv.org/abs/2311.07562)
+-[Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation](https://arxiv.org/abs/2312.03003)
+-[LifelongMemory: Leveraging LLMs for Answering Queries in Egocentric Videos](https://arxiv.org/abs/2312.05269)
+-[AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771)
+-[A Simple LLM Framework for Long-Range Video Question-Answering](https://arxiv.org/abs/2312.17235)
+-[DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models](https://arxiv.org/abs/2401.08392)
+-[Multimodal Embodied Interactive Agent for Cafe Scene](https://arxiv.org/abs/2402.00290)
+-[Memory Consolidation Enables Long-Context Video Understanding](https://arxiv.org/abs/2402.05861)
+-[OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456)
+-[MemoNav: Working Memory Model for Visual Navigation](https://arxiv.org/abs/2402.19161)
+-[MR-MT3: Memory Retaining Multi-Track Music Transcription to Mitigate Instrument Leakage](https://arxiv.org/abs/2403.10024)
+-[VideoAgent: Long-form Video Understanding with Large Language Model as Agent](https://arxiv.org/abs/2403.10517)
+-[VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding](https://arxiv.org/abs/2403.11481)
+-[Language Repository for Long Video Understanding](https://arxiv.org/abs/2403.14622)
+-[Efficient Video Object Segmentation via Modulated Cross-Attention Memory](https://arxiv.org/abs/2403.17937)
+-[MemFlow: Optical Flow Estimation and Prediction with Memory](https://arxiv.org/abs/2404.04808)
+-[MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding](https://arxiv.org/abs/2404.05726)
+-[Streaming Long Video Understanding with Large Language Models](https://arxiv.org/abs/2405.16009)
+-[Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams](https://arxiv.org/abs/2406.08085)
+-[RMem: Restricted Memory Banks Improve Video Object Segmentation](https://arxiv.org/abs/2406.08476)
+-[DrVideo: Document Retrieval Based Long Video Understanding](https://arxiv.org/abs/2406.12846)
+-[Deep Visual Odometry With Adaptive Memory]()
+-[AAP-MIT: Attentive Atrous Pyramid Network and Memory Incorporated Transformer for Multisentence Video Description]()
+-[Learning Recurrent Memory Activation Networks for Visual Tracking]()
+-[STAM: A SpatioTemporal Attention Based Memory for Video Prediction]()
+-[CroMM-VSR: Cross-Modal Memory Augmented Visual Speech Recognition]()
+-[Audio-driven Talking Face Video Generation with Natural Head Pose](https://arxiv.org/abs/2002.10137)
+-[SAM 2: Segment Anything in Images and Videos](https://arxiv.org/abs/2408.00714)
+-[Online Temporal Action Localization with Memory-Augmented Transformer](https://arxiv.org/abs/2408.02957)
+-[OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning](https://arxiv.org/abs/2405.01533)
+-[Videollamb: Long-context video understanding with recurrent memory bridges](https://arxiv.org/abs/2409.01071)
+
+### 4.1 Multimodal Context Modeling with Memory
+#### 4.1.1 Audio Context Modeling
+- [Locating and editing factual associations in GPT](https://dl.acm.org/doi/10.5555/3600270.3601532)
+- [Mass-editing memory in a transformer](https://arxiv.org/abs/2210.07229)
+- [Calibrating Factual Knowledge in Pretrained Language Models](https://aclanthology.org/2022.findings-emnlp.438/)
+- [Editing Factual Knowledge in Language Models](https://aclanthology.org/2021.emnlp-main.522/)
+- [Methods for measuring, updating, and visualizing factual beliefs in language models](https://aclanthology.org/2023.eacl-main.199/)
+- [Large Scale Knowledge Washing](https://arxiv.org/abs/2405.16720)
+- [A comprehensive study of knowledge editing for large language models](https://arxiv.org/abs/2401.01286)
+
+#### 4.1.2 Video Context Modeling
+#### 4.1.3 Other Modalities
 
 
 ### 4.2 Downstream tasks
@@ -205,7 +311,9 @@ Table of Contents
 
 
 ### 4.3 Multimodal Contextual Memory for Robotics
-
+#### 4.3.1 Multimodal Memory-Augmented Agents
+#### 4.3.2 Memory-Enhanced Navigation, Odometry, and Manipulation
+#### 4.3.3 Application
 
 
 ### 4.4 Limitations, Open Questions, Discussion
