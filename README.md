@@ -157,20 +157,43 @@ Table of Contents
 ## 2 Explicit Memory: When (M)LLMs Meet Retrieval
 
 ### 2.1 Explicit Memory Representation
-
+#### 2.1.1 Free text
+- [PRCA: Fitting Black-Box Large Language Models for Retrieval Question Answering via Pluggable Reward-Driven Contextual Adapter](https://aclanthology.org/2023.emnlp-main.326/)
+- [PaperQA: Retrieval-Augmented Generative Agent for Scientific Research](https://arxiv.org/abs/2312.07559)
+- [Memory-assisted prompt editing to improve GPT-3 after deployment](https://arxiv.org/abs/2201.06009)
+- [Prompt-Guided Retrieval Augmentation for Non-Knowledge-Intensive Tasks](https://aclanthology.org/2023.findings-acl.693/)
+- [Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation](https://arxiv.org/abs/2311.04177)
+- [Understanding Retrieval Augmentation for Long-Form Question Answering](https://arxiv.org/abs/2310.12150)
+- [Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models](https://aclanthology.org/2024.emnlp-main.813/)
+- [IAG: Induction-Augmented Generation Framework for Answering Reasoning Questions](https://aclanthology.org/2023.emnlp-main.1/)
+- [Retrieval meets Long Context Large Language Models](https://arxiv.org/abs/2310.03025)
+- [RA-DIT: Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/abs/2310.01352)
+- [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/abs/2401.18059)
+#### 2.1.2 Graph
+- [ISEEQ: Information Seeking Question Generation using Dynamic Meta-Information Retrieval and Knowledge Graphs](https://arxiv.org/abs/2112.07622)
+- [G-retriever: retrieval-augmented generation for textual graph understanding and question answering](https://dl.acm.org/doi/10.5555/3737916.3742140)
+- [KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases](https://arxiv.org/abs/2308.11761)
+- [FABULA: Intelligence Report Generation Using Retrieval-Augmented Narrative Construction](https://dl.acm.org/doi/10.1145/3625007.3627505)
+- [HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses](https://arxiv.org/abs/2312.15883)
+- [Knowledge-Augmented Language Model Verification](https://arxiv.org/abs/2310.12836)
+- [PIP-KAG: Mitigating Knowledge Conflicts in Knowledge-Augmented Generation via Parametric Pruning](https://arxiv.org/abs/2502.15543v1)
+- [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802)
+- [Reducing Hallucinations in Language Model-based SPARQL Query Generation Using Post-Generation Memory Retrieval](https://arxiv.org/abs/2502.13369)
+- [Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning](https://arxiv.org/abs/2310.01061)
+- [ProAI: Proactive Multi-Agent Conversational AI with Structured Knowledge Base for Psychiatric Diagnosis](https://arxiv.org/abs/2502.20689v1)
+#### 2.1.3 Vector
 
 
 ### 2.2 Training with Explicit Memory
-
-
+#### 2.2.1 Retrieval-based pretraining
+#### 2.2.2 Retrieval-based fintuning
 
 
 ### 2.3 Training with externalized parameteric knowledge
-
-
+#### 2.3.1 Long Contexts
+#### 2.3.2 Knowledge Injection
 
 ### 2.4 Limitations, Open Questions, Discussion
-
 
 
 ## 3 Agentic Memory: Consolidating Memories into Humanic Agents
