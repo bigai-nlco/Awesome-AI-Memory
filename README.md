@@ -182,19 +182,48 @@ Table of Contents
 - [Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning](https://arxiv.org/abs/2310.01061)
 - [ProAI: Proactive Multi-Agent Conversational AI with Structured Knowledge Base for Psychiatric Diagnosis](https://arxiv.org/abs/2502.20689v1)
 #### 2.1.3 Vector
-
-
+- [LlamaIndex](https://github.com/jerryjliu/llama_index)
+- [LangChain](https://github.com/langchain-ai/langchain)
+- [Large Language Models Prompting With Episodic Memory](https://arxiv.org/abs/2408.07465)
+- [Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation](https://arxiv.org/abs/2311.04177)
+- [Retrieve-and-Sample: Document-level Event Argument Extraction via Hybrid Retrieval Augmentation](https://aclanthology.org/2023.acl-long.17/)
+- [Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)
 ### 2.2 Training with Explicit Memory
 #### 2.2.1 Retrieval-based pretraining
+- [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
+- [Improving language models by retrieving from trillions of tokens](https://arxiv.org/abs/2112.04426)
+- [Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study](https://aclanthology.org/2023.emnlp-main.482/)
+- [InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining](https://arxiv.org/abs/2310.07713)
+- [{$Memory^3$}: Language Modeling with Explicit Memory](https://arxiv.org/abs/2407.01178)
+- [Atlas: Few-shot Learning with Retrieval Augmented Language Models](https://arxiv.org/abs/2208.03299)
+- [Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data](https://arxiv.org/abs/2305.19912)
+- [Copy Is All You Need](https://arxiv.org/abs/2307.06962)
 #### 2.2.2 Retrieval-based fintuning
-
-
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+- [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511)
+- [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://aclanthology.org/2021.eacl-main.74/)
+- [REPLUG: Retrieval-Augmented Black-Box Language Models](https://aclanthology.org/2024.naacl-long.463/)
+- [Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation](https://arxiv.org/abs/2305.18846)
+- [UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation](https://aclanthology.org/2023.emnlp-main.758/)
+- [Self-Memory Alignment: Mitigating Factual Hallucinations with Generalized Improvement](https://arxiv.org/abs/2502.19127v1)
+- [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/abs/2503.00502)
+- [Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy](https://aclanthology.org/2023.findings-emnlp.620/)
 ### 2.3 Training with externalized parameteric knowledge
 #### 2.3.1 Long Contexts
+- [Memorizing Transformers](https://arxiv.org/abs/2203.08913)
+- [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
+- [Focused Transformer: Contrastive Training for Context Scaling](https://arxiv.org/abs/2307.03170)
+- [EpMAN: Episodic Memory AttentioN for Generalizing to Longer Contexts](https://aclanthology.org/2025.acl-long.574/)
+- [{$R^3$}Mem: Bridging Memory Retention and Retrieval via Reversible Compression](https://aclanthology.org/2025.findings-acl.235/)
+- [Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174)
 #### 2.3.2 Knowledge Injection
-
+- [Training language models with memory augmentation](https://arxiv.org/abs/2205.12674)
+- [Lift Yourself Up: Retrieval-augmented Text Generation with Self Memory](https://arxiv.org/abs/2305.02437)
+- [Faithful reasoning using large language models](https://arxiv.org/abs/2208.14271)
 ### 2.4 Limitations, Open Questions, Discussion
-
+- [Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation](https://arxiv.org/abs/2505.02138)
+- [Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era](https://arxiv.org/abs/2505.02583)
+- [Foundation Models for Spatio-Temporal Data Science: A Tutorial and Survey](https://arxiv.org/abs/2503.13502)
 
 ## 3 Agentic Memory: Consolidating Memories into Humanic Agents
 ### 3.1 Single-agent Memory
