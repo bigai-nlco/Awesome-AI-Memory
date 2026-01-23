@@ -267,7 +267,7 @@ Table of Contents
 - [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716) 
 - [Generative agents: Interactive simulacra of human behavior](https://arxiv.org/abs/2304.03442) 
 - [Recmind: Large language model powered agent for recommendation](https://arxiv.org/abs/2308.14296) 
-- [Large language models are semi-parametric reinforcement learning agents](https://arxiv.org/abs/2403.01021) 
+- [Large language models are semi-parametric reinforcement learning agents](https://arxiv.org/abs/2306.07929) 
 - [How do large language models capture the ever-changing world knowledge? a review of recent advances](https://arxiv.org/abs/2310.07343) 
 - [From static to dynamic: A continual learning framework for large language models](https://arxiv.org/abs/2310.14248) 
 - [Ret-LLM: Towards a general read-write memory for large language models](https://arxiv.org/abs/2305.14322) 
@@ -276,15 +276,15 @@ Table of Contents
 - [RAP: Retrieval-augmented planning with contextual memory for multimodal LLM agents](https://arxiv.org/abs/2402.03610) 
 - [Learn-by-interact: A data-centric framework for self-adaptive agents in realistic environments](https://arxiv.org/abs/2501.10893) 
 - [Memp: Exploring agent procedural memory](https://arxiv.org/abs/2508.06433) 
-- [Contextual experience replay for self-improvement of language agents](https://arxiv.org/abs/2411.02534) 
-- [Sage: Self-evolving agents with reflective and memory-augmented abilities](https://arxiv.org/abs/2501.12345) 
+- [Contextual experience replay for self-improvement of language agents](https://arxiv.org/abs/2506.06698) 
+- [Sage: Self-evolving agents with reflective and memory-augmented abilities](https://arxiv.org/abs/2409.00872) 
 - [Reasoningbank: Scaling agent self-evolving with reasoning memory](https://arxiv.org/abs/2509.25140) 
 - [Memory-assisted prompt editing to improve GPT-3 after deployment](https://arxiv.org/abs/2201.06009) 
 - [Learning to repair: Repairing model output errors after deployment using a dynamic memory of feedback](https://arxiv.org/abs/2112.09737) 
 - [Towards teachable reasoning systems: Using a dynamic memory of user feedback for continual system improvement](https://arxiv.org/abs/2204.13074) 
 - [Compress to impress: Unleashing the potential of compressive memory in real-world long-term conversations](https://arxiv.org/abs/2402.11975) 
 - [KnowledGPT: Enhancing large language models with retrieval and storage access on knowledge bases](https://arxiv.org/abs/2308.11761) 
-- [Memory-augmented LLM personalization with short-and long-term memory coordination](https://arxiv.org/abs/2309.11696) 
+- [LLM-based Medical Assistant Personalization with Short- and Long-Term Memory Coordination](https://arxiv.org/abs/2309.11696) 
 - [MemoryBank: Enhancing large language models with long-term memory](https://arxiv.org/abs/2305.10250) 
 
 
@@ -302,9 +302,15 @@ Table of Contents
 ### 3.3 System Architecture
 - [LangChain](https://github.com/langchain-ai/langchain) 
 - [LlamaIndex](https://github.com/run-llama/llama_index) 
-- [Zep: A temporal knowledge graph architecture for agent memory](https://arxiv.org/abs/2501.13956) 
-- [Sentence-BERT: Sentence embeddings using siamese BERT-networks](https://arxiv.org/abs/1908.10084) 
-
+- [Zep](https://www.getzep.com/) 
+- [Haystack](https://haystack.deepset.ai/)
+- [Letta](https://www.letta.com)
+- [Mem0](https://www.getzep.com/)
+- [Dify](https://dify.ai/)
+- [Weaviate](https://weaviate.io/)
+- [Pinecone](https://www.pinecone.io/)
+- [Trychroma](https://www.trychroma.com/)
+- [Faiss](https://faiss.ai/)
 
 
 
