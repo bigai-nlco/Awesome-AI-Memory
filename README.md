@@ -225,25 +225,110 @@ Table of Contents
 - [Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era](https://arxiv.org/abs/2505.02583)
 - [Foundation Models for Spatio-Temporal Data Science: A Tutorial and Survey](https://arxiv.org/abs/2503.13502)
 
+
+
+
+
+
+
 ## 3 Agentic Memory: Consolidating Memories into Humanic Agents
+
+- [Human memory: A proposed system and its control processes](https://app.nova.edu/toolbox/instructionalproducts/edd8124/articles/1968-Atkinson_and_Shiffrin.pdf) 
+- [A survey on the memory mechanism of large language model based agents](https://arxiv.org/abs/2404.13501) 
+
 ### 3.1 Single-agent Memory
+- [LLM as a robotic brain: Unifying egocentric memory and control](https://arxiv.org/abs/2304.09349) 
+- [Evaluating very long-term conversational memory of LLM agents](https://arxiv.org/abs/2402.17753) 
+- [Memory3: Language modeling with explicit memory](https://arxiv.org/abs/2407.01178) 
+
+
+
+#### 3.1.1 Short-term Memory
+- [Chain-of-thought prompting elicits reasoning in large language models](https://arxiv.org/abs/2201.11903) 
+- [Self-consistency improves chain of thought reasoning in language models](https://arxiv.org/abs/2203.11171)
+- [Tree of thoughts: Deliberate problem solving with large language models](https://arxiv.org/abs/2305.10601) 
+- [Graph of thoughts: Solving elaborate problems with large language models](https://arxiv.org/abs/2308.09687) 
+- [ReAct: Synergizing reasoning and acting in language models](https://arxiv.org/abs/2210.03629) 
+- [Reflexion: Language agents with verbal reinforcement learning](https://arxiv.org/abs/2303.11366) 
+- [Reflectevo: Improving meta introspection of small LLMs by learning self-reflection](https://arxiv.org/abs/2505.16475) 
+- [Mars: Situated inductive reasoning in an open-world environment](https://arxiv.org/abs/2410.08126) 
+- [RAM: Towards an ever-improving memory system by learning from communications](https://arxiv.org/abs/2404.12045) 
+- [Absolute zero: Reinforced self-play reasoning with zero data](https://arxiv.org/abs/2505.03335) 
+- [Metareflection: Learning instructions for language agents using past reflections](https://arxiv.org/abs/2405.13009) 
+- [Learn beyond the answer: Training language models with reflection for mathematical reasoning](https://arxiv.org/abs/2406.12050) 
+- [RoT: Enhancing large language models with reflection on search trees](https://arxiv.org/abs/2404.05449) 
+- [Mirror: A multiple-perspective self-reflection method for knowledge-rich reasoning](https://arxiv.org/abs/2402.14963) 
+- [Textgrad: Automatic differentiation via text](https://arxiv.org/abs/2406.07496) 
+
+#### 3.1.2 Long-term Memory
+- [Langsuite: Planning, controlling and interacting with large language models in embodied text environments](https://arxiv.org/abs/2406.16294) 
+- [Benchmarking the spectrum of agent capabilities](https://arxiv.org/abs/2109.06780) 
+- [The arcade learning environment: An evaluation platform for general agents](https://arxiv.org/abs/1207.4708) 
+- [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716) 
+- [Generative agents: Interactive simulacra of human behavior](https://arxiv.org/abs/2304.03442) 
+- [Recmind: Large language model powered agent for recommendation](https://arxiv.org/abs/2308.14296) 
+- [Large language models are semi-parametric reinforcement learning agents](https://arxiv.org/abs/2403.01021) 
+- [How do large language models capture the ever-changing world knowledge? a review of recent advances](https://arxiv.org/abs/2310.07343) 
+- [From static to dynamic: A continual learning framework for large language models](https://arxiv.org/abs/2310.14248) 
+- [Ret-LLM: Towards a general read-write memory for large language models](https://arxiv.org/abs/2305.14322) 
+- [Empowering working memory for large language model agents](https://arxiv.org/abs/2312.17259) 
+- [Think-in-memory: Recalling and post-thinking enable LLMs with long-term memory](https://arxiv.org/abs/2311.08719) 
+- [RAP: Retrieval-augmented planning with contextual memory for multimodal LLM agents](https://arxiv.org/abs/2402.03610) 
+- [Learn-by-interact: A data-centric framework for self-adaptive agents in realistic environments](https://arxiv.org/abs/2501.10893) 
+- [Memp: Exploring agent procedural memory](https://arxiv.org/abs/2508.06433) 
+- [Contextual experience replay for self-improvement of language agents](https://arxiv.org/abs/2411.02534) 
+- [Sage: Self-evolving agents with reflective and memory-augmented abilities](https://arxiv.org/abs/2501.12345) 
+- [Reasoningbank: Scaling agent self-evolving with reasoning memory](https://arxiv.org/abs/2509.25140) 
+- [Memory-assisted prompt editing to improve GPT-3 after deployment](https://arxiv.org/abs/2201.06009) 
+- [Learning to repair: Repairing model output errors after deployment using a dynamic memory of feedback](https://arxiv.org/abs/2112.09737) 
+- [Towards teachable reasoning systems: Using a dynamic memory of user feedback for continual system improvement](https://arxiv.org/abs/2204.13074) 
+- [Compress to impress: Unleashing the potential of compressive memory in real-world long-term conversations](https://arxiv.org/abs/2402.11975) 
+- [KnowledGPT: Enhancing large language models with retrieval and storage access on knowledge bases](https://arxiv.org/abs/2308.11761) 
+- [Memory-augmented LLM personalization with short-and long-term memory coordination](https://arxiv.org/abs/2309.11696) 
+- [MemoryBank: Enhancing large language models with long-term memory](https://arxiv.org/abs/2305.10250) 
+
 
 
 
 ### 3.2 Multi-agent Memory
-
+- [A-mem: Agentic memory for llm agents](https://arxiv.org/abs/2502.12110)
+- [Internet of agents: Weaving a web of heterogeneous agents for collaborative intelligence](https://arxiv.org/abs/2407.07061)
+- [LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning](https://arxiv.org/abs/2502.05453)
+- [Memory Sharing for Large Language Model based Agents](https://arxiv.org/abs/2404.09982)
+- [Zep: A Temporal Knowledge Graph Architecture for Agent Memory](https://arxiv.org/abs/2501.13956)
 
 
 
 ### 3.3 System Architecture
+- [LangChain](https://github.com/langchain-ai/langchain) 
+- [LlamaIndex](https://github.com/run-llama/llama_index) 
+- [Zep: A temporal knowledge graph architecture for agent memory](https://arxiv.org/abs/2501.13956) 
+- [Sentence-BERT: Sentence embeddings using siamese BERT-networks](https://arxiv.org/abs/1908.10084) 
+
 
 
 
 ### 3.4 Evaluation on Agent Memory
+- [The NarrativeQA Reading Comprehension Challenge](https://arxiv.org/abs/1712.07040) 
+- [Quality: Question answering with long input texts, yes!](https://arxiv.org/abs/2112.08608) 
+- [LooGle: Can long-context language models understand long contexts?](https://arxiv.org/abs/2311.04939) 
+- [RetrievalQA: Assessing adaptive retrieval-augmented generation for short-form open-domain question answering](https://arxiv.org/abs/2402.16457) 
+- [Needle In A Haystack](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) 
+- [ALFWorld: Aligning text and embodied environments for interactive learning](https://arxiv.org/abs/2010.03768) 
+- [WebArena: A realistic web environment for building autonomous agents](https://arxiv.org/abs/2307.13854) 
+- [Gentopia: A collaborative platform for tool-augmented LLMs](https://arxiv.org/abs/2308.04030) 
+- [AgentBench: Evaluating LLMs as agents](https://arxiv.org/abs/2308.03688) 
+- [LongMemEval: Benchmarking chat assistants on long-term interactive memory](https://arxiv.org/abs/2410.10813) 
+- [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) 
+- [Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia](https://arxiv.org/abs/2312.03664) 
 
 ### 3.5 Limitations, Open Questions, Discussion
-
-
+- [A Scalable Communication Protocol for Networks of Large Language Models](https://arxiv.org/abs/2410.11905)
+- [A survey on the memory mechanism of large language model based agents](https://arxiv.org/abs/2404.13501)
+- [DroidSpeak: Enhancing Cross-LLM Communication](https://arxiv.org/abs/2411.02820)
+- [IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems](https://arxiv.org/abs/2410.16237)
+- [RAM: Towards an Ever-Improving Memory System by Learning from Communications](https://arxiv.org/abs/2404.12045)
+- [Rethinking memory in ai: Taxonomy, operations, topics, and future directions](https://arxiv.org/abs/2505.00675)
 
 ## 4 Memory-augmented Multi-Modal Large Language models
 
