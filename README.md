@@ -1,4 +1,11 @@
-# LLM-Memory-Survey
+# Awesome-AI-Memory
+## The AI Hippocampus: How Far are We From Human Memory?
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![TMLR](https://img.shields.io/badge/TMLR-Openreview-blue.svg)](https://openreview.net/forum?id=Sk7pwmLuAY)
+[![arXiv](https://img.shields.io/badge/arXiv-arxiv.org/abs/2601.09113-<COLOR>.svg)](https://arxiv.org/abs/2601.09113)
+
+![overview](memory.png) 
+
 Memory plays a foundational role in augmenting the reasoning, adaptability, and contextual fidelity of modern Large Language Models (LLMs) and Multi-Modal LLMs (MLLMs). As these models transition from static predictors to interactive systems capable of continual learning and personalized inference, the incorporation of memory mechanisms has emerged as a central theme in their architectural and functional evolution. This survey presents a comprehensive and structured synthesis of memory in LLMs and MLLMs, organizing the literature into a cohesive taxonomy comprising implicit, explicit, and agentic memory paradigms.
 
 ## Analogy to Human Brain
