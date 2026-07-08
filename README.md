@@ -313,6 +313,7 @@ Table of Contents
 - [Haystack](https://haystack.deepset.ai/)
 - [Letta](https://www.letta.com)
 - [Mem0](https://www.getzep.com/)
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)
 - [Dify](https://dify.ai/)
 - [Weaviate](https://weaviate.io/)
 - [Pinecone](https://www.pinecone.io/)
