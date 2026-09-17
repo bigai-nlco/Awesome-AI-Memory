@@ -318,6 +318,7 @@ Table of Contents
 - [Pinecone](https://www.pinecone.io/)
 - [Trychroma](https://www.trychroma.com/)
 - [Faiss](https://faiss.ai/)
+- [Mnemoverse](https://mnemoverse.com)
 
 
 
