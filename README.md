@@ -334,6 +334,7 @@ Table of Contents
 - [LongMemEval: Benchmarking chat assistants on long-term interactive memory](https://arxiv.org/abs/2410.10813) 
 - [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) 
 - [Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia](https://arxiv.org/abs/2312.03664) 
+- [EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2609.28236)
 
 ### 3.5 Limitations, Open Questions, Discussion
 - [A Scalable Communication Protocol for Networks of Large Language Models](https://arxiv.org/abs/2410.11905)
