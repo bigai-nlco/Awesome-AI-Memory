@@ -318,6 +318,7 @@ Table of Contents
 - [Pinecone](https://www.pinecone.io/)
 - [Trychroma](https://www.trychroma.com/)
 - [Faiss](https://faiss.ai/)
+- [SuperLocalMemory](https://github.com/qualixar/superlocalmemory) -- Local-first governed memory for AI agents, shared across Claude Code, Codex, Cursor and any MCP client; answers say when memory holds nothing relevant. Described in [four arXiv papers](https://github.com/qualixar/superlocalmemory#research). AGPL-3.0-or-later.
 
 
 
