@@ -183,7 +183,7 @@ Table of Contents
 - [FABULA: Intelligence Report Generation Using Retrieval-Augmented Narrative Construction](https://dl.acm.org/doi/10.1145/3625007.3627505)
 - [HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses](https://arxiv.org/abs/2312.15883)
 - [Knowledge-Augmented Language Model Verification](https://arxiv.org/abs/2310.12836)
-- [PIP-KAG: Mitigating Knowledge Conflicts in Knowledge-Augmented Generation via Parametric Pruning](https://arxiv.org/abs/2502.15543v1)
+- [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15543)
 - [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802)
 - [Reducing Hallucinations in Language Model-based SPARQL Query Generation Using Post-Generation Memory Retrieval](https://arxiv.org/abs/2502.13369)
 - [Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning](https://arxiv.org/abs/2310.01061)
